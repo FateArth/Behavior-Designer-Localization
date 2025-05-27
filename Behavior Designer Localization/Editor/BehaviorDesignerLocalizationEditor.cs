@@ -8,7 +8,7 @@ using UnityEngine;
 using BehaviorDesigner.Runtime.Tasks;
 using HarmonyLib;
 using Newtonsoft.Json;
-using Sirenix.Utilities;
+
 public class BehaviorDesignerLocalizationEditor : EditorWindow
 {
     private const string PrefKey = "BD_Language";
